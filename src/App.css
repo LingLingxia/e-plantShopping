@@ -113,6 +113,9 @@
 .product-list-container.visible {
   top: 0;
 }
+.display-center{
+  text-align: center;
+}
 /* LandingPage.css */
 @media screen and (max-width: 768px) {
   .content {
